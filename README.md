@@ -41,6 +41,7 @@ rails server    [OR rails s] [You can check out your site on "localhost:3000/"]
 
 **Create a Repository on GitHub for this project:**
 ```
+echo "# todo" >> README.md (optional)
 git init
 git add .     [you might also want to add a README.md page]
 git commit -m "First commit"
